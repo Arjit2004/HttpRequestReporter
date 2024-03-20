@@ -1,0 +1,11 @@
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\bin\Debug\net8.0\HttpRequestReporter.Common.deps.json
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\bin\Debug\net8.0\HttpRequestReporter.Common.dll
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\bin\Debug\net8.0\HttpRequestReporter.Common.pdb
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\obj\Debug\net8.0\HttpRequestReporter.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\obj\Debug\net8.0\HttpRequestReporter.Common.AssemblyInfoInputs.cache
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\obj\Debug\net8.0\HttpRequestReporter.Common.AssemblyInfo.cs
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\obj\Debug\net8.0\HttpRequestReporter.Common.csproj.CoreCompileInputs.cache
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\obj\Debug\net8.0\HttpRequestReporter.Common.dll
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\obj\Debug\net8.0\refint\HttpRequestReporter.Common.dll
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\obj\Debug\net8.0\HttpRequestReporter.Common.pdb
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Common\obj\Debug\net8.0\ref\HttpRequestReporter.Common.dll

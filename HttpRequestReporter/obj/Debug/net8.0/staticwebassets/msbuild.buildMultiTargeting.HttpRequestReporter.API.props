@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HttpRequestReporter.API.props" />
+</Project>

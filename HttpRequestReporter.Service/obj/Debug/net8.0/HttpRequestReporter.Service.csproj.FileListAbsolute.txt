@@ -1,0 +1,15 @@
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\HttpRequestReporter.Service.csproj.AssemblyReference.cache
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\HttpRequestReporter.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\HttpRequestReporter.Service.AssemblyInfoInputs.cache
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\HttpRequestReporter.Service.AssemblyInfo.cs
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\HttpRequestReporter.Service.csproj.CoreCompileInputs.cache
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\bin\Debug\net8.0\HttpRequestReporter.Service.deps.json
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\bin\Debug\net8.0\HttpRequestReporter.Service.dll
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\bin\Debug\net8.0\HttpRequestReporter.Service.pdb
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\bin\Debug\net8.0\HttpRequestReporter.Common.dll
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\bin\Debug\net8.0\HttpRequestReporter.Common.pdb
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\HttpRequ.14844653.Up2Date
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\HttpRequestReporter.Service.dll
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\refint\HttpRequestReporter.Service.dll
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\HttpRequestReporter.Service.pdb
+C:\Users\agupta93\source\repos\HttpRequestReporter\HttpRequestReporter.Service\obj\Debug\net8.0\ref\HttpRequestReporter.Service.dll

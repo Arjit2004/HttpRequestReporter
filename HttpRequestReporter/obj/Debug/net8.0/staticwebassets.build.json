@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dTFkhZu6v4NtI9y3S26UOkcoQY6sVQLDCapLagLeHYw=",
+  "Source": "HttpRequestReporter.API",
+  "BasePath": "_content/HttpRequestReporter.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
